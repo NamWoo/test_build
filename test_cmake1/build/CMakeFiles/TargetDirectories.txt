@@ -1,0 +1,3 @@
+/home/nw/test_make/test_cmake1/build/CMakeFiles/rebuild_cache.dir
+/home/nw/test_make/test_cmake1/build/CMakeFiles/hellomake.dir
+/home/nw/test_make/test_cmake1/build/CMakeFiles/edit_cache.dir

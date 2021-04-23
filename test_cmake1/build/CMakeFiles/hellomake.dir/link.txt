@@ -1,0 +1,1 @@
+/usr/bin/gcc    CMakeFiles/hellomake.dir/hellofunc.c.o CMakeFiles/hellomake.dir/hellomake.c.o  -o hellomake 

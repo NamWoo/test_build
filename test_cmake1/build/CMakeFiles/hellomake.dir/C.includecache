@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nw/test_make/test_cmake1/hellofunc.c
+stdio.h
+-
+hellomake.h
+-
+
+/home/nw/test_make/test_cmake1/hellomake.c
+hellomake.h
+-
+
